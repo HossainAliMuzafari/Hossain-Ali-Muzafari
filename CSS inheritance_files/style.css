@@ -1,0 +1,55 @@
+body{
+    background-color: blanchedalmond;
+}
+h1{
+   color: rgb(131, 28, 28); 
+}
+.photo{
+    text-align: left;
+    background-color:No;
+
+}
+.header{
+    margin-left: 20px;
+  
+}
+#about-me{
+    display: flex;
+    justify-content: center;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    color: rgb(214, 14, 14);
+    text-align: left;
+    background-color:no;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color: brown;
+    text-align:left;
+    background-color:No;
+}
+.navbar {
+    display: flex;
+    justify-content: space-around;
+background-image: linear-gradient(#c80ea0d5, rgb(124, 4, 106));
+
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    text-align:left;
+   display: left;
+}
+.navbar{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    text-align:left;
+   display: left;
+   color: black;
+}
+.about-me-hero{
+    display: flex;
+}
